@@ -1,20 +1,20 @@
 Historique des sorties a velo (VTT : Nakamura)
 Distance |   Temps        |   Vitesse Moyenne |   Date
-24.4     |   1:13:41:03   |   20.05           |   12/08/2013
-24.4     |   1:13:32:89   |   20.05           |   13/08/2013
-24.4     |   1:09:47:84   |   21.21           |   15/08/2013
-24.4     |   1:06:10:86   |   22.18           |   18/08/2013
-24.4     |   1:01:85:29   |   23.67           |   22/08/2013
-18.0     |   -:--:--:--   |   --.--           |   27/08/2013
+24.4     |   1:13:41:03   |   20.05           |   12/08/2013  (Tinja/Menzel Bourgiba/Om Heni)
+24.4     |   1:13:32:89   |   20.05           |   13/08/2013  (Tinja/Menzel Bourgiba/Om Heni)
+24.4     |   1:09:47:84   |   21.21           |   15/08/2013  (Tinja/Menzel Bourgiba/Om Heni)
+24.4     |   1:06:10:86   |   22.18           |   18/08/2013  (Tinja/Menzel Bourgiba/Om Heni)
+24.4     |   1:01:85:29   |   23.67           |   22/08/2013  (Tinja/Menzel Bourgiba/Om Heni)
+18.0     |   -:--:--:--   |   --.--           |   27/08/2013  (Tinja)
 
-30.0     |   -:--:--:--   |   --.--           |   12/09/2013
+30.0     |   -:--:--:--   |   --.--           |   12/09/2013  (Tinja/Menzel Bourgiba)
 
-45.2     |   2:04:45:11   |   21.87           |   14/09/2013  ===> contre la montre distance[14.5] temps[0:33:79:02] vitesse moyenne[26.36]
-
-
+45.2     |   2:04:45:11   |   21.87           |   14/09/2013  (Tinja/Bizerte)  ===> contre la montre distance[14.5] temps[0:33:79:02] vitesse moyenne[26.36]
 
 
 
 
-----------------
+
+Total de la distance parcourue
+---------------- 
 215.2
